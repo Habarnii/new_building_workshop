@@ -1,4 +1,6 @@
 # new_building_workshop
+web application for residents of a new building for the sale and publication of leftover materials
+
 
 Up postgres in docker new_building_workshop/project/postgres.sh  
 run application  
